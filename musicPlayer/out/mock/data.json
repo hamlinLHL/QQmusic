@@ -1,0 +1,29 @@
+[
+    {
+        "image": "/source/面码.jpg",
+        "audio": "/source/未闻花名.mp3",
+        "song": "未闻花名",
+        "album": "那朵花（あの花）",
+        "singer": "本间芽衣子",
+        "duration": 342,
+        "isLike": true
+    },
+    {
+        "image": "/source/五月天.jpg",
+        "audio": "/source/突然好想你.mp3",
+        "song": "突然好想你",
+        "album": "后青春的诗",
+        "singer": "五月天",
+        "duration": 265,
+        "isLike": false
+    },
+    {
+        "image": "/source/林宥嘉.jpg",
+        "audio": "/source/云烟成雨.mp3",
+        "song": "云烟成雨",
+        "album": "我是江小白",
+        "singer": "房东的猫",
+        "duration": 240,
+        "isLike": true
+    }
+]
